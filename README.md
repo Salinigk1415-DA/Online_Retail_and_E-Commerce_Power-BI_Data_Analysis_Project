@@ -82,7 +82,7 @@ Delivered an interactive dashboard for quick and e
 The project successfully transformed raw e-commerce data into meaningful insights through interactive visualizations. The dashboard enables stakeholders to monitor performance, understand customer behavior, and make informed business decisions. This analysis can help improve sales strategies, enhance customer experience, and drive overall business growth.
 ## Screenshots
 
-<img width="1163" height="657" alt="Online Retail   E-Commerse Dashboard Screenshort" src="https://github.com/user-attachments/assets/c12cbb41-fff8-48fd-b890-dcf5bd8e4192" />
+<img width="1163" height="657" alt="Online Retail   E-Commerse Dashboard Screenshort" src="https://github.com/user-attachments/assets/d8fb5627-52f0-42a1-a492-2e2770c9b092" />
 
 
 
